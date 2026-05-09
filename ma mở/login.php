@@ -20,12 +20,6 @@ function pageLogin() { ?>
         </div>
         <button type="submit" class="btn btn-primary" style="width:100%;justify-content:center;padding:12px;">Đăng Nhập</button>
     </form>
-    <div style="margin-top:16px;background:var(--light);border-radius:var(--radius-sm);padding:12px;font-size:0.78rem;color:var(--gray);">
-        <strong>Tài khoản mẫu:</strong><br>
-        Admin: admin / admin123<br>
-        Giảng viên: teacher1 / teacher123<br>
-        Học viên: student1 / student123
-    </div>
     <div style="text-align:center;margin-top:20px;font-size:0.875rem;">
         Chưa có tài khoản? <a href="?action=register"><strong>Đăng ký ngay</strong></a>
     </div>
